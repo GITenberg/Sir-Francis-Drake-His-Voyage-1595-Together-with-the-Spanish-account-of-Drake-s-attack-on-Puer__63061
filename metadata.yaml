@@ -1,5 +1,5 @@
 _repo: Sir-Francis-Drake-His-Voyage-1595-Together-with-the-Spanish-account-of-Drake-s-attack-on-Puer__63061
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   other_contributor:
     agent_name: Hakluyt Society
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52253'
     url: http://www.gutenberg.org/2009/agents/52253
     wikipedia: https://en.wikipedia.org/wiki/Hakluyt_Society
+covers:
+- cover_type: archival
+  image_path: 63061-h/images/cover.jpg
 creator:
   author:
     agent_name: Maynarde, Thomas, active 1595
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52252
     wikipedia: https://en.wikipedia.org/wiki/William_Desborough_Cooley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63061#Sir-Francis-Drake-His-Voyage-1595-Together-with-the-Spanish-account-of-Drake-s-attack-on-Puer_
 gutenberg_issued: '2020-08-27'
 gutenberg_type: Text
 identifiers:
