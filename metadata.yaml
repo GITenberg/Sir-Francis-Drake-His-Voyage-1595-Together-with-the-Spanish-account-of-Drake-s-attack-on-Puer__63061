@@ -1,0 +1,42 @@
+_repo: Sir-Francis-Drake-His-Voyage-1595-Together-with-the-Spanish-account-of-Drake-s-attack-on-Puer__63061
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Hakluyt Society
+    aliases:
+    - Society, The Hakluyt
+    - Society, Hakluyt
+    gutenberg_agent_id: '52253'
+    url: http://www.gutenberg.org/2009/agents/52253
+    wikipedia: https://en.wikipedia.org/wiki/Hakluyt_Society
+creator:
+  author:
+    agent_name: Maynarde, Thomas, active 1595
+    gutenberg_agent_id: '52251'
+    url: http://www.gutenberg.org/2009/agents/52251
+  editor:
+    agent_name: Cooley, William Desborough
+    alias: Cooley, W. D. (William Desborough)
+    deathdate: 1883
+    gutenberg_agent_id: '52252'
+    url: http://www.gutenberg.org/2009/agents/52252
+    wikipedia: https://en.wikipedia.org/wiki/William_Desborough_Cooley
+description: ''
+gutenberg_issued: '2020-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63061'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Travel'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcc 'G'
+- GITenberg
+title: "Sir Francis Drake: His Voyage, 1595\r\nTogether with the Spanish account of\
+  \ Drake's attack on Puerto Rico"
+url: http://www.gutenberg.org/ebooks/63061
